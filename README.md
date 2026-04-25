@@ -88,7 +88,7 @@ Maps each skill to the **Median Salary** of jobs requiring it and the **Skill Li
 
 - **MEDIAN, COUNTIF, SUMIF** for statistical summaries
 - **Conditional formatting** for visual hierarchy
-- **Scatter, Bar, and Bubble charts** for analytical storytelling
+- **Scatter, Bar, and Combo charts** for analytical storytelling
 - **Named ranges** for formula readability
 - **Data validation** for structured inputs
 
