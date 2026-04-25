@@ -84,7 +84,7 @@ Maps each skill to the **Median Salary** of jobs requiring it and the **Skill Li
 - **Power Query** to clean the data
 - **Power Pivot** to model the data and create Measures
 - **PivotTables** for multi-dimensional aggregation
-- **Calculated fields|Masures** for custom metrics (Skill Likelihood, Skills Per Job)
+- **Calculated fields/Masures** for custom metrics using **DAX** (Skill Likelihood, Skills Per Job)
 
 - **MEDIAN, COUNTIF, SUMIF** for statistical summaries
 - **Conditional formatting** for visual hierarchy
