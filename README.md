@@ -36,7 +36,7 @@ Identifies the top 10 most requested technical skills in data job postings, meas
 - Cloud platforms (AWS at 20.9%) and visualization tools (Tableau at 21.6%) round out the top tier.
 - Legacy tools like Java (11.7%) and SAS (14.7%) still maintain a presence but at lower rates.
 
-<!-- 📸 Screenshot: Bar chart — Skill Likelihood Ranking -->
+![alt text](image.png)
 
 ---
 
@@ -49,7 +49,7 @@ Cross-analyzes **Median Salary** against **Skills Per Job** for each role, explo
 - Data Analysts require fewer skills (~3.6) and have the lowest median salary at $90,000.
 - The data suggests a positive relationship between skill complexity and compensation.
 
-<!-- 📸 Screenshot: Scatter plot — Median Salary vs. Skills Per Job by Role -->
+![alt text](image-1.png)
 
 ---
 
@@ -62,7 +62,7 @@ Breaks down **Median Salary** by job title, comparing domestic (US) and internat
 - Senior roles such as **Senior Data Scientists** ($155K) show consistent salaries globally, suggesting this tier is internationally competitive.
 - **Data Analysts** show no gap - $90K median in both markets.
 
-<!-- 📸 Screenshot: Clustered bar chart — Median Salary US vs. Non-US by Role -->
+![alt text](image-3.png)
 
 ---
 
@@ -75,7 +75,7 @@ Maps each skill to the **Median Salary** of jobs requiring it and the **Skill Li
 - **Oracle** commands the highest associated salary (~$96,924) but appears in only 6.8% of jobs, making it a niche but lucrative skill.
 - **Excel** and **Word** are the most common "baseline" tools, associated with lower-paying roles ($84,500 and $81,682 respectively).
 
-<!-- 📸 Screenshot: Bubble chart — Skill Likelihood vs. Median Salary (bubble size = salary) -->
+![alt text](image-4.png)
 
 ---
 
